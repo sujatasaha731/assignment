@@ -1,1 +1,3 @@
-# first assignment
+#!/bin/bash
+echo "Hello from GitHub!"
+
